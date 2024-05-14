@@ -1,3 +1,3 @@
 # itsansh
-I am learning JAVA
 Hello there!!!!
+I am learning Java.
